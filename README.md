@@ -1,2 +1,2 @@
 ##### Sololearn - Python
-This repo contains all the python tasks have completed in Sololearn.com 
+This repo contains all the python tasks I have completed in Sololearn.com 
